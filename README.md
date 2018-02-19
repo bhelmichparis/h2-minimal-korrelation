@@ -1,1 +1,1 @@
-# h2-minimal-korrelation
+# Elektronen-Korrelation von H2 im Minimal-Basissatz
